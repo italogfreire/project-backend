@@ -50,7 +50,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 Utilização</h2>
 
-O back-end do projeto está hospedado no endereço https://foodexplorer-backend-vp86.onrender.com. A aplicação Food Explorer está disponível para uso [aqui]().
+O back-end do projeto está hospedado no endereço https://foodexplorer-backend-vp86.onrender.com. A aplicação Food Explorer está disponível para uso [aqui](https://explorerfood-98399b.netlify.app/).
 
 Você também pode executá-lo em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
 
